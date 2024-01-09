@@ -62,15 +62,6 @@ v.	There is an exponential raise in the number of TV shows and movies distribute
 # 📋 Execution Instruction
 The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
-# 📜 Credits
-Mahima Phalkey | Data Scientist | Machine Learning Engineer | Data Science enthusiast
-
-Special thanks to AlmaBetter
-
-Contact me for Data Science Project Collaborations
-
-[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/mahima-phalkey/) [![image](https://user-images.githubusercontent.com/95841292/202914715-787f6ae3-d9f6-491c-9cae-c717131ddebd.png)](https://github.com/Mahima2208) [![image](https://user-images.githubusercontent.com/95841292/202914883-bce71634-6c2b-4305-8020-4b240cb76e41.png)](https://medium.com/@mahimaphalkey) [![image](https://user-images.githubusercontent.com/95841292/202914940-5d5eba71-e45d-4e95-8dfe-65e45d255aec.png)](https://drive.google.com/file/d/1Xi9oBrCjMc3QPGAhFdfO5rnMUssLa7Hw/view?usp=sharing)
-
 
 # 📚 References
 
